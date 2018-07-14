@@ -3,7 +3,7 @@
 
 **This is a controller for an ebb and flow system.**
 
-##Sensors
+## Sensors
 
 PPM Sensor
 >To determine if amount of minerals is right.
@@ -14,7 +14,7 @@ PH Sensor
 Water Level Sensor
 >To make sure we do not thrist our plants
 
-##I/O
+## I/O
 
 Button
 >To Force Check the PPM
@@ -28,4 +28,9 @@ Water Drain Valve
 LCD Display
 >To comunicate the PPM value for manual adding
 
+## Operation
+
+Plug in the components needed and customize the Pins for your setup.
+
+Start the Arduino and the program shouldn't require any more setup.
 
